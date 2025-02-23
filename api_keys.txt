@@ -1,0 +1,12 @@
+quadrant = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3MiOiJtIiwiZXhwIjoxNzQ3Njc4ODg0fQ.oroGkXGcUP6n2u-kvYsqq783rxP5eomZg9CLNWlfQEI
+quadrant_cluster_url = https://23ad055c-b5f1-45fd-9697-4d0dcd9c625c.us-east4-0.gcp.cloud.qdrant.io:6333
+gemini = AIzaSyAP7VOyDFYt97eVE5RMKLIJrlqzl9GXpXo
+exa_api = d6e04b46-6baf-4d24-bc5c-df09907c7197
+
+pollution api key = ae315dfdae95ae42a6efc5ffb1659fe66e5c327e
+gemini api key revosurgetn = AIzaSyDF5S0udAgyTZFIYo1n9S-rj_a5U3f4p6Q
+
+gmail smpt =wjdk gdyt ozrp updr
+
+zep=z_1dWlkIjoiNDg0MTNkNDEtMGQyZS00MDNhLTkwNDctZWVlOTE4YWQzNDczIn0.VWxmwziDUmpAzZfRPXtwBMTm3XnVRbBMvbbv5F3PhsVYACQGEnAnyUK-qPl68Q5XtGQKfL2ht8OKegnvQQ-oUA
+
