@@ -1,1 +1,8 @@
 .qodo
+
+# Secrets
+.env
+.env.local
+api_keys*
+*.pem
+credentials.json
